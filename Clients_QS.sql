@@ -56,7 +56,7 @@ SELECT customer_segment, count(*) as "Number of Customers"
 FROM customer_type
 GROUP BY customer_segment
 
---Q8 What are the \top 3 most purchased products wihtin each category?
+--Q8 What are the top 3 most purchased products wihtin each category?
 
 
 
